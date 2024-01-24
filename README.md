@@ -7,7 +7,7 @@ Hi 👋 My name is Ashley
 University of Technology Malaysia. The major that I take is Computer Science of Software Engineering with honors. Currently, I am serving as a Year 1 student. I used to learn coding during my pre-university and the programming language that I learnt was JAVA.
 
 * 🌍  I'm based in Kuantan, Pahang, Malaysia
-* 🖥️  See my portfolio at [Here is my UTM eportfolio](http://eportfolio.utm.my/user/chen-shu-yan)
+* 🖥️  See my portfolio at [My Portfolio](http://eportfolio.utm.my/user/chen-shu-yan)
 * ✉️  You can contact me at [chenshuyan@graduate.utm.my](mailto:chenshuyan@graduate.utm.my)
 * 🧠  I'm learning to program code and transfer to hardware by using STM32 IDE
 * 🤝  I'm open to collaborating on interesting project either develop an app or program a hardware
